@@ -19,7 +19,7 @@ body {
     width: 360px;
     height: 300px;
     background-image: url(/Imagens/banner\ p\ 1.png);
-    margin-top: 440px;
+    margin-top: 400px;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -136,7 +136,7 @@ body {
     height: 150px;
     color: white;
     font-size: 20px;
-    margin-top: 1800px;
+    margin-top: 1700px;
     margin-left: 5px;
   }
 }
@@ -170,7 +170,7 @@ body {
   }
   .barra2 {
     width: 300px;
-    height: 728px;
+    height: 647px;
     margin-left: 724px;
     background-image: url(/Imagens/banner\ p\ 2.png);
     display: flex;
@@ -222,10 +222,7 @@ body {
     width: 360px;
     height: 1000px;
     margin-top: 1000px;
-    background-color: black;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+    background-image: url(/Imagens/banner\ p\ 3\ deitado.png);
   }
   .txt3¹{
     width: 250px;
@@ -294,10 +291,7 @@ body {
     width: 512px;
     height: 646px;
     margin-top:0px;
-    background-color: black;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+    background-image: url(/Imagens/banner\ p3.png);
   }
   .txt3¹{
     width: 160px;
