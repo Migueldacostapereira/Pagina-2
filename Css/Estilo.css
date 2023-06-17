@@ -36,6 +36,11 @@ body {
     margin-left: 30px;
     margin-top: -650px;
   }
+  .sanduiche{
+    width: 360px;
+    height: 50px;
+    background-color: #ae5192;
+  }
 }
 @media only screen and (min-width: 900px) {
   .tudo {
@@ -69,6 +74,11 @@ body {
     height: 450px;
     margin-left: 50px;
     margin-top: -375px;
+  }
+  .sanduiche{
+    width: 1024px;
+    height: 60px;
+    background-color: #ae5192;
   }
 }
 
@@ -139,6 +149,12 @@ body {
     margin-top: 1700px;
     margin-left: 5px;
   }
+
+  .sanduiche{
+    width: 360px;
+    height: 50px;
+    background-color: #ae5192;
+  }
 }
 @media only screen and (min-width: 900px) {
   .tudo2 {
@@ -203,6 +219,11 @@ body {
     background-image: url(/Imagens/Img\ p\ 2\ \(4\).png);
     margin-top: -226px;
     margin-left: 874px;
+  }
+  .sanduiche{
+    width: 1024px;
+    height: 60px;
+    background-color: #ae5192;
   }
 
 }
@@ -277,6 +298,11 @@ body {
     margin-left: 60px;
     margin-top: 40px;
   }
+  .sanduiche{
+    width: 360px;
+    height: 50px;
+    background-color: #ae5192;
+  }
 }
 @media only screen and (min-width: 900px){
   .tudo3 {
@@ -339,5 +365,10 @@ body {
     height: 180px;
     margin-left: 535px;
     margin-top: 95px;
+  }
+  .sanduiche{
+    width: 1024px;
+    height: 60px;
+    background-color: #ae5192;
   }
 }
