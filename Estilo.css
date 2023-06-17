@@ -1,0 +1,374 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #be9bce;
+}
+@media only screen and (min-width: 340px) {
+  .tudo {
+    width: 360px;
+    height: 740px;
+    margin: auto;
+    background-color: #661a3c;
+  }
+  .nav {
+    width: 360px;
+    height: 60px;
+    background-color: dimgray;
+  }
+  .barra {
+    width: 360px;
+    height: 300px;
+    background-image: url(/Imagens/banner\ p\ 1.png);
+    margin-top: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: white;
+    font-size: small;
+  }
+  .txt {
+    width: 250px;
+    height: 150px;
+  }
+  .img {
+    width: 300px;
+    height: 380px;
+    margin-left: 30px;
+    margin-top: -650px;
+  }
+  .sanduiche{
+    width: 360px;
+    height: 50px;
+    background-color: #ae5192;
+  }
+}
+@media only screen and (min-width: 900px) {
+  .tudo {
+    width: 1024px;
+    height: 768px;
+    margin: auto;
+    background-color: #661a3c;
+  }
+  .nav {
+    width: 1024px;
+    height: 40px;
+    background-color: dimgray;
+  }
+  .barra {
+    width: 1024px;
+    height: 300px;
+    background-color: black;
+    margin-top: 194px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url(/Imagens/banner\ p\ 1.png);
+  }
+  .txt {
+    width: 250px;
+    height: 150px;
+    margin-top: -100px;
+  }
+  .img {
+    width: 300px;
+    height: 450px;
+    margin-left: 50px;
+    margin-top: -375px;
+  }
+  .sanduiche{
+    width: 1024px;
+    height: 60px;
+    background-color: #ae5192;
+  }
+}
+
+/*Página 2*/
+
+@media only screen and (min-width: 340px) {
+  .tudo2 {
+    width: 360px;
+    height: 2000px;
+    margin: auto;
+    background-color: #661a3c;
+    align-items: center;
+    justify-content: center;
+  }
+  .nav2 {
+    width: 360px;
+    height: 60px;
+    background-color: dimgray;
+  }
+  .barra2 {
+    width: 360px;
+    height: 300px;
+    background-image: url(/Imagens/banner\ p\ 2\ deitado.png);
+    display: flex;
+  }
+  .txt2 {
+    width: 150px;
+    height: 150px;
+    color: white;
+    margin-top: -250px;
+    margin-left: 100px;
+
+  }
+  .img2¹ {
+    width: 240px;
+    height: 304px;
+    background-image: url(/Imagens/img\ G\ p\ 2\ \(1\).png);
+    margin-left: 60px;
+    margin-top: 60px;
+    
+  }
+  .img2² {
+    width: 240px;
+    height: 304px;
+    background-image: url(/Imagens/img\ G\ p\ 2\ \(2\).png);
+    margin-left: 60px;
+    margin-top: 60px;
+  }
+  .img2³ {
+    width: 240px;
+    height: 304px;
+    background-image: url(/Imagens/img\ G\ p\ 2\ \(3\).png);
+    margin-left: 60px;
+    margin-top: 60px;
+  }
+  .img2⁴ {
+    width: 240px;
+    height: 304px;
+    background-image: url(/Imagens/img\ G\ p\ 2\ \(4\).png);
+    margin-left: 60px;
+    margin-top: 60px;
+  }
+  .txt2² {
+    width: 250px;
+    height: 150px;
+    color: white;
+    font-size: 20px;
+    margin-top: 1700px;
+    margin-left: 5px;
+  }
+
+  .sanduiche{
+    width: 360px;
+    height: 50px;
+    background-color: #ae5192;
+  }
+}
+@media only screen and (min-width: 900px) {
+  .tudo2 {
+    width: 1024px;
+    height: 768px;
+    margin: auto;
+    background-color: #661a3c;
+  }
+  .nav2 {
+    width: 1024px;
+    height: 40px;
+    background-color: dimgray;
+  }
+  .txt2 {
+    width: 250px;
+    height: 150px;
+    margin-left: 160px;
+    margin-top: -650px;
+    color: white;
+    font-size: 20px;
+  }
+  .txt2² {
+    width: 250px;
+    height: 150px;
+    margin-top: 560px;
+    margin-bottom: 50px;
+    color: white;
+    font-size: 20px;
+  }
+  .barra2 {
+    width: 300px;
+    height: 708px;
+    margin-left: 724px;
+    background-image: url(/Imagens/banner\ p\ 2.png);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .img2¹ {
+    width: 150px;
+    height: 225px;
+    background-image: url(/Imagens/Img\ p\ 2\ \(1\).png);
+    margin-top: 60px;
+  }
+  .img2² {
+    width: 150px;
+    height: 225px;
+    background-image: url(/Imagens/Img\ p\ 2\ \(2\).png);
+    margin-top: -226px;
+    margin-left: 330px;
+  }
+  .img2³ {
+    width: 150px;
+    height: 225px;
+    background-image: url(/Imagens/Img\ p\ 2\ \(3\).png);
+    margin-top: -226px;
+    margin-left: 600px;
+  }
+  .img2⁴ {
+    width: 150px;
+    height: 225px;
+    background-image: url(/Imagens/Img\ p\ 2\ \(4\).png);
+    margin-top: -226px;
+    margin-left: 874px;
+  }
+  .sanduiche{
+    width: 1024px;
+    height: 60px;
+    background-color: #ae5192;
+  }
+
+}
+
+/*Página 3*/
+
+@media only screen and (min-width: 340px){
+  .tudo3 {
+    width: 360px;
+    height: 2000px;
+    margin: auto;
+    background-color: #661a3c;
+    align-items: center;
+    justify-content: center;
+  }
+  .barra3 {
+    width: 360px;
+    height: 1000px;
+    margin-top: 1000px;
+    background-image: url(/Imagens/banner\ p\ 3\ deitado.png);
+  }
+  .txt3¹{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 60px;
+    color: white;
+  }
+  .txt3²{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 60px;
+    color: white;
+  }
+  .txt3³{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 60px;
+    color: white;
+  }
+  .txt3⁴{
+    width: 250px;
+    height: 150px;
+    margin-top: 50px;
+    margin-left: 60px;
+    color: white;
+  }
+  .img3¹ {
+    width: 240px;
+    height: 240px;
+    margin-top: -1960px;
+    margin-left: 60px;
+  }
+  .img3² {
+    width: 240px;
+    height: 240px;
+    margin-top: 40px;
+    margin-left: 60px;
+  }
+  .img3³ {
+    width: 240px;
+    height: 240px;
+    margin-top: 40px;
+    margin-left: 60px;
+
+  }
+  .img3⁴ {
+    width: 240px;
+    height: 240px;
+    margin-left: 60px;
+    margin-top: 40px;
+  }
+  .sanduiche{
+    width: 360px;
+    height: 50px;
+    background-color: #ae5192;
+  }
+}
+@media only screen and (min-width: 900px){
+  .tudo3 {
+    width: 1024px;
+    height: 768px;
+    margin: auto;
+    background-color: #661a3c;
+    align-items: center;
+    justify-content: center;
+  }
+  .barra3 {
+    width: 512px;
+    height: 708px;
+    margin-top:0px;
+    background-image: url(/Imagens/banner\ p3.png);
+  }
+  .txt3¹{
+    width: 160px;
+    height: 150px;
+    margin-top: -165px;
+    margin-left: 50px;
+  }
+  .txt3²{
+    width: 160px;
+    height: 150px;
+    margin-top: -165px;
+    margin-left: 50px;
+  }
+  .txt3³{
+    width: 160px;
+    height: 150px;
+    margin-left: 810px;
+    margin-top: -160px;
+  }
+  .txt3⁴{
+    width: 160px;
+    height: 150px;
+    margin-left: 810px;
+    margin-top: -160px;
+  }
+  .img3¹ {
+    width: 180px;
+    height: 180px;
+    margin-top: -550px;
+    margin-left: 250px;
+  }
+  .img3² {
+    width: 180px;
+    height: 180px;
+    margin-top: 100px;
+    margin-left: 250px;  }
+  .img3³ {
+    width: 180px;
+    height: 180px;
+    margin-top: -430px;
+    margin-left: 535px;
+  }
+  .img3⁴ {
+    width: 180px;
+    height: 180px;
+    margin-left: 535px;
+    margin-top: 95px;
+  }
+  .sanduiche{
+    width: 1024px;
+    height: 60px;
+    background-color: #ae5192;
+  }
+}
